@@ -1,6 +1,6 @@
 ### PHASE 1 PROJECT
 
-####SPECIFYING THE DATA ANALYTIC QUESTION
+### SPECIFYING THE DATA ANALYTIC QUESTION
 
 Microsoft have been seeing other companies creating video content and have
 decided to create a new movie studio,but they do not know how to create movies.
