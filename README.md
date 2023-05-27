@@ -7,10 +7,10 @@ decided to create a new movie studio,but they do not know how to create movies.
 
 
 #### PROBLEM STATEMENT
-You as a data scientist have to understand the movie industry what it is about and what it entails. What kind/types of 
-films are currently trending at the box office. You must gather the findings into actionable insights and visuals, so that
-the Stakeholders can undertstand what/ the kind of films that their target audience like and to know which movies that they
-should invest more in.
+You as a data scientist have to understand the movie industry what it entails. What kind/types of films are currently 
+trending at the box office. You must gather the findings into actionable insights and visuals, so that the Stakeholders
+can understand what/ the kind of films that their target audience like and to know which movies that they should invest
+more in.
 
 ### DATA UNDERSTANDING
 The data files that contain the tables have various details, whereby some are irrelevant while others are relevant. As a data 
@@ -51,5 +51,5 @@ things that have to be put into consideration. This things are :-
 ### RECOMMENDATION
 -Always do your research from time to time inorder to be at par with the kind of movies/films that people like.
 
--Always keep an eye on what your competitors are doingB so that you are not left behind.
+-Always keep an eye on what your competitors are doing so that you are not left behind.
 
