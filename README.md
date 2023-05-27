@@ -12,18 +12,18 @@ films are currently trending at the box office. You must gather the findings int
 the Stakeholders can undertstand what/ the kind of films that their target audience like and to know which movies that they
 should invest more in.
 
-###DATA UNDERSTANDING
+### DATA UNDERSTANDING
 The data files that contain the tables have various details, whereby some are irrelevant while others are relevant. As a data 
 scientist you choose which data you want want to keep and which one you want to drop. The data also has information about how 
 other films were successful,the year and also which are the studios that are in the market.
  
 
-###DATA PREPARATION
+### DATA PREPARATION
 Look at the data that we have been provided with, find the missing values ,look for anomalies/outliers, look for the
 information at the head and the tail of the table provided and think critically before dropping a row or column. This
 means understand it then analyse it. This way you are able to get more than enough informatiion.
 
-###DATA ANALYSIS
+### DATA ANALYSIS
 we have been provided with data from different movie files that contain data. From the data that was provided it involved
 things that have to be put into consideration. This things are :-
   
