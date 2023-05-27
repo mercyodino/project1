@@ -42,11 +42,14 @@ things that have to be put into consideration. This things are :-
 
 ### CONCLUSION
 -In the movie industry, you can make good money if you produce the right films
+
 -You will not always win or have your movie as the best always. Sometimes you will loose and sometimes you will win.
+
 -Ratings are important, pay attention to what your target audience is saying.
 
 
 ### RECOMMENDATION
 -Always do your research from time to time inorder to be at par with the kind of movies/films that people like.
+
 -Always keep an eye on what your competitors are doingB so that you are not left behind.
 
