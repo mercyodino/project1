@@ -13,8 +13,8 @@ the Stakeholders can undertstand what/ the kind of films that their target audie
 should invest more in.
 
 ###DATA UNDERSTANDING
-Th e data files that contain the tables have various details, whereby some are irrelevant while others are relevant. As a data 
-scientist you choose which data you want want to keep and which one you want to drop. The data also has iformation about how 
+The data files that contain the tables have various details, whereby some are irrelevant while others are relevant. As a data 
+scientist you choose which data you want want to keep and which one you want to drop. The data also has information about how 
 other films were successful,the year and also which are the studios that are in the market.
  
 
@@ -27,17 +27,26 @@ means understand it then analyse it. This way you are able to get more than enou
 we have been provided with data from different movie files that contain data. From the data that was provided it involved
 things that have to be put into consideration. This things are :-
   
- - What kind of movies or genre do people like?
+ - What kind of movies or genre do people like? We have differnt movies that have been seen which are really doing well
+ in the industry and that is where you should dwell in. 
  
- - Do movies give a good return in terms of profit? Yes they do. When you look at our data you an see the amount that was used in 
- the production and the amount they received as gross both domestically and locally and the profit was good.
+ - Do movies give a good return in terms of profit? Yes they do. When you look at our data you can see the amount that was used in 
+ the production and the amount they received as gross both domestically and worldwide. You can tell that the profit was good.
  
- - what are the ratings of the movie and do they affect anything?
- - which studios are your competitors in the industry?
+ - What are the ratings of the movie and do they affect anything? yes they do. There are movies with higher ratings than the rest which
+ means that people have watched it and given it a rating, if it was good or bad and that can affect how people will watch your film in the future. 
+
+ - Which studios are your competitors in the industry? We have different studios that have been in the industry for a long time and some
+  of them are seen in the data. That is good for Microsoft to know who their competitors are.
+
 
 ### CONCLUSION
-
+-In the movie industry, you can make good money if you produce the right films
+-You will not always win or have your movie as the best always. Sometimes you will loose and sometimes you will win.
+-Ratings are important, pay attention to what your target audience is saying.
 
 
 ### RECOMMENDATION
+-Always do your research from time to time inorder to be at par with the kind of movies/films that people like.
+-Always keep an eye on what your competitors are doingB so that you are not left behind.
 
